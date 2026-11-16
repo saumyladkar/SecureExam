@@ -1,0 +1,14 @@
+Django>=5.2,<7.0
+djangorestframework>=3.16
+djangorestframework-simplejwt>=5.5
+django-cors-headers>=4.7
+django-filter>=25.1
+mysqlclient>=2.2
+python-dotenv>=1.1
+cryptography>=45.0
+PyMuPDF>=1.26
+
+gunicorn
+whitenoise
+gunicorn
+whitenoise
